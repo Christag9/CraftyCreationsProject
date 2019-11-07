@@ -1,0 +1,122 @@
+body{
+    background-color:powderblue;
+    color: black;
+    padding-bottom: 20px;
+
+
+}
+.head{
+font-family:'Shadows Into Light Two', cursive;
+font-size: 55px;
+color: black;
+font-weight: bold;
+}
+
+.nav {
+	min-height: 35px;
+	padding-bottom: 5px;
+  display: block;
+  border: none;
+	width: 100%;
+	background-color:lightgray;
+  font-family: Slabo, serif;
+  font-size: 30px;
+  font-family: 'Lateef', cursive;
+  color: black;
+  font-weight: bold;
+
+
+
+}
+
+.navbtn a {
+	color: black;
+	padding-top: 5px ;
+	padding-bottom: 5px;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	width: 100%;
+	margin-bottom: -5px;
+   border: solid;
+   border-width: thin;
+	}
+
+.navbtn a:hover {
+	background-color: white;
+  color: black;
+	}
+
+  .box{
+    background-color: #ffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*border: solid;
+    border-width: thin;*/
+  }
+
+.abouttxt{
+  text-align: left;
+  padding-right: 10px;
+  padding-top: 10px:
+}
+
+.img{
+
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+}
+.porc{
+padding-left: 20px;
+}
+.text{
+padding-left: 20px;
+text-align: left;
+}
+.draw{
+  padding-left: 20px;
+}
+h2{
+  min-height: 35px;
+  padding-bottom: 5px;
+  width: 100%;
+  /*background-image:url("images/nav.png");*/
+  font-family:'Shadows Into Light Two', cursive;
+  font-size: 30px;
+  /*color: powderblue;*/
+  color: black;
+  font-weight: bold;
+  border-bottom-style: dashed;
+}
+p{
+color: black;
+font-size: 21px;
+padding-top: 25px;
+font-family: 'Lateef', cursive;
+}
+b{
+  font-size: 30px;
+
+}
+.video{
+  padding-left: 50px;
+	padding-right: 50px;
+  image-orientation: center;
+}
+
+.footer{
+  min-height: 35px;
+	width: 100%;
+  font-size: 25px;
+  font-family: 'Lateef', cursive;
+  color: black;
+  font-weight: bold;
+  background-color: #ffff;
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  
+
+}
